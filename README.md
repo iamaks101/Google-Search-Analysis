@@ -18,12 +18,12 @@ The main objective is to understand how people search for different topics over 
   •	Data Analysis: Time-series analysis, trend detection, data preprocessing
   •	Visualization: Line plots, bar charts, heatmaps for regional comparison
 
-## Problem Statement 
-   This project uses Google Trends data (via PyTrends) to analyze keyword search trends globally.
-     •	 Search analysis by changing only the keyword (dynamic keyword support).
-     •	 Identify top 15 countries where the keyword is searched most, along with visualization.
-     •	 Plot a world map showing the countries with maximum search interest.
-     •	 Extract and visualize time-wise interest to show how the keyword trended in different years.
-     •	 Compare related keywords and visualize their trends.
+ 
+  ## Problem Statement
+   •   Search analysis by changing only the keyword (dynamic keyword support).
+   •	 Identify top 15 countries where the keyword is searched most, along with visualization.
+   •	 Plot a world map showing the countries with maximum search interest.
+   •	 Extract and visualize time-wise interest to show how the keyword trended in different years.
+   •	 Compare related keywords and visualize their trends.
   
     
